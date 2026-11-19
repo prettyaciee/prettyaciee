@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Annah Claire</h1>
 <h3 align="center">Aspiring web developer from the Philippines</h3>
+<h3 align="center">Also @adriaanamd's wife</h3>
 
 - 🌱 I’m currently learning **Vanilla and React-based Frontend Development**
 
